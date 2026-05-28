@@ -68,7 +68,7 @@ Applied IQR method for removal
 
 ### 🚀 How to Run
 Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/jinshauv95-web/mental-health-analysis-osmi.git
 Open Jupyter Notebook
 jupyter notebook
 Run analysis.ipynb
