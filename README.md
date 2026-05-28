@@ -81,7 +81,9 @@ Deploy as web application
 🙌 Author
 **Jinsha UV**
 Aspiring Data Analyst / Data Science Enthusiast
+
 📧 jinshauv95@gmail.com
+
 🔗 LinkedIn: linkedin.com/in/jinshauv
 
 ⭐ If you like this project
